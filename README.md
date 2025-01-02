@@ -1,3 +1,1 @@
-LED BLINKING IN ESP32. It's like "hello world" in electronics. 
-
-In port 25. 
+Testing OLED display with Adafruit. Using a ESP32
